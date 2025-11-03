@@ -1,8 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter, Roboto_Mono } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
-import { CookieBanner } from "@/components/cookie-banner"
 import "./globals.css"
 
 const inter = Inter({
@@ -48,8 +46,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.variable} ${robotoMono.variable} font-sans antialiased`}>
         {children}
-        <CookieBanner />
-        <Analytics />
+
       </body>
     </html>
   )
