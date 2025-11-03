@@ -104,7 +104,7 @@ export function Footer() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-gray-500">
             <p className="font-medium text-center md:text-left">
-              © 2025 Betano Ontario. Licensed by AGCO. All rights reserved.
+              © 2025 sportsinontario.com . Licensed by AGCO. All rights reserved.
             </p>
             <p className="font-medium text-center md:text-right">
               Gambling problem? Call ConnexOntario: 1-866-531-2600

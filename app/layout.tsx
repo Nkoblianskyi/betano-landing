@@ -16,7 +16,7 @@ const robotoMono = Roboto_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Betano Ontario | Premium Sports Betting in Ontario",
+  title: "Betano Ontario | Premium Sports Betting in Ontario sportsinontario.com",
   description:
     "Experience premium sports betting in Ontario with Betano. Bet on Premier League, NHL, NBA, NFL, and more. Welcome offer: Bet £10, Get £30 in Free Bets. Licensed by AGCO.",
   keywords: [
