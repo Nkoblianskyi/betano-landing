@@ -69,6 +69,30 @@ export function Footer() {
             >
               <img src="/ibia.svg" alt="IBIA" className="max-h-full max-w-full object-contain" />
             </a>
+            <a
+              href="https://www.gambleaware.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white rounded-lg p-3 md:p-4 hover:shadow-lg transition-shadow duration-200 flex items-center justify-center h-16 md:h-20 w-24 md:w-32"
+            >
+              <img src="/gamble.webp" alt="GambleAware" className="max-h-full max-w-full object-contain" />
+            </a>
+            <a
+              href="https://www.gamcare.org.uk/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white rounded-lg p-3 md:p-4 hover:shadow-lg transition-shadow duration-200 flex items-center justify-center h-16 md:h-20 w-24 md:w-32"
+            >
+              <img src="/gamecare.svg" alt="GamCare" className="max-h-full max-w-full object-contain" />
+            </a>
+            <a
+              href="https://www.agco.ca/en"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white rounded-lg p-3 md:p-4 hover:shadow-lg transition-shadow duration-200 flex items-center justify-center h-16 md:h-20 w-24 md:w-32"
+            >
+              <img src="/agco.png" alt="AGCO" className="max-h-full max-w-full object-contain" />
+            </a>
           </div>
         </div>
 
